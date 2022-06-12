@@ -1,0 +1,15 @@
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\bin\Debug\net6.0\Aluguel.exe
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\bin\Debug\net6.0\Aluguel.deps.json
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\bin\Debug\net6.0\Aluguel.runtimeconfig.json
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\bin\Debug\net6.0\Aluguel.dll
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\bin\Debug\net6.0\Aluguel.pdb
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\obj\Debug\net6.0\Aluguel.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\obj\Debug\net6.0\Aluguel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\obj\Debug\net6.0\Aluguel.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\obj\Debug\net6.0\Aluguel.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\obj\Debug\net6.0\Aluguel.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\obj\Debug\net6.0\Aluguel.dll
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\obj\Debug\net6.0\refint\Aluguel.dll
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\obj\Debug\net6.0\Aluguel.pdb
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\obj\Debug\net6.0\Aluguel.genruntimeconfig.cache
+C:\Users\alexa\source\repos\Udemy\Aluguel\Aluguel\obj\Debug\net6.0\ref\Aluguel.dll
